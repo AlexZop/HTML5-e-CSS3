@@ -1,0 +1,30 @@
+body {
+    margin: 45px;
+}
+
+h1 {
+    text-align: center;
+    margin: 70px;
+}
+
+table {
+    width: 600px;
+}
+
+thead {
+    background-color: #aaa;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: left;
+}
+
+tbody tr:hover {
+    background-color: #EEE;
+}
+
+td {
+    border-bottom: 2px solid #aaa;
+}
