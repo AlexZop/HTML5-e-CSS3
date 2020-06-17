@@ -4,27 +4,13 @@ body {
 
 h1 {
     text-align: center;
-    margin: 70px;
+    margin-top: 50px;
 }
 
-table {
-    width: 600px;
+h2 {
+    margin-top: 50px;
 }
 
-thead {
-    background-color: #aaa;
-}
-
-th,
-td {
-    padding: 10px;
-    text-align: left;
-}
-
-tbody tr:hover {
-    background-color: #EEE;
-}
-
-td {
-    border-bottom: 2px solid #aaa;
+strong {
+    font-size: 15px;
 }
